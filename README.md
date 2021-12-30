@@ -9,7 +9,7 @@
 ## Description
 A MERN aplication designed to assist with book searches.  This is a work in progress and has been delivered in a half done state as a learning tool.
 ## Screenshot
-![pic of application](https://i.imgur.com/VDYLrkr.mp4)
+![pic of application](https://i.imgur.com/yKu8DNH.jpg)
 
 
 ## Deployment

@@ -7,10 +7,10 @@
 * [Usage](#usage)
 * [License](#license)
 ## Description
-A MERN aplication designed to assist with book searches.  This is a work in progress and has been delivered in a half done state as a learning tool.
-## Screenshot
-![pic of application](https://i.imgur.com/yKu8DNH.jpg)
+A MERN aplication designed to assist with book searches.  Just enter the book type in the search bar and search away!
 
+## Screenshot
+![pic of application](/client/src/assets/booksearch.jpg)
 
 ## Deployment
 https://murmuring-gorge-66953.herokuapp.com/
